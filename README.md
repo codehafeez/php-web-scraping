@@ -14,9 +14,7 @@ http://localhost/php-web-scraping
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/php-update-version/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/php-update-version/main/Screenshots/Output-02.png)
-![](https://raw.githubusercontent.com/codehafeez/php-update-version/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/php-web-scraping/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
